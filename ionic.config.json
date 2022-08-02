@@ -1,0 +1,8 @@
+{
+  "name": "super-sind-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "91a59178"
+}
